@@ -23,7 +23,7 @@ const data = [
     {
       title: "Our Kia EV9 Foreshadows Future Three-Row SUVs",
       day: "Dec 6, 2024",
-      image: "./img/kia.jpeg", 
+      image: "./img/nissan.jpeg", 
     },
     {
       title: "2025 Audi S6 e-tron Is Slightly Sportier",
